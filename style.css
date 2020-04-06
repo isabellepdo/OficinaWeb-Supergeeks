@@ -1,3 +1,14 @@
 #logomenu{
     height: 50px;
 }
+
+.imgcarrosel{
+    height: 42.5rem !important;
+}
+
+.separacao{
+    background-image: url("Assets/imagens/1920x280_bg.jpg");
+    text-align: center;
+    color: aliceblue;
+    padding: 2rem;
+}
