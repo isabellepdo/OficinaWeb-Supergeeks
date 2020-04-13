@@ -12,3 +12,22 @@
     color: aliceblue;
     padding: 2rem;
 }
+
+#divcards{
+    padding: 1rem;
+}
+
+.card-title{
+    color: red !important;
+}
+
+.cardvalor{
+    color: blue !important;
+    text-align: center;
+    font-size: 12px;
+}
+
+.cardcampo{
+    text-align: center;
+    font-size: 12px;
+}
