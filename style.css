@@ -35,3 +35,15 @@
 .divquemsomos{
     color:gray;
 }
+
+.informacoes{
+    background-image: url("Assets/imagens/1920x211_bg.jpg");
+    text-align: center;
+}
+
+.divinfo{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: white;
+}
+
